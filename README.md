@@ -2,7 +2,7 @@
 My solutions for [Advent of Code 2024](https://adventofcode.com/).
 
 # Days
-- [ ] Day 1: Historian Hysteria
+- [x] Day 1: Historian Hysteria
 - [ ] Day 2: ???
 - [ ] Day 3: ???
 - [ ] Day 4: ???
