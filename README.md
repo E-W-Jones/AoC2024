@@ -3,7 +3,7 @@ My solutions for [Advent of Code 2024](https://adventofcode.com/).
 
 # Days
 - [x] Day 1: Historian Hysteria
-- [ ] Day 2: ???
+- [x] Day 2: Red-Nosed Reports
 - [ ] Day 3: ???
 - [ ] Day 4: ???
 - [ ] Day 5: ???
